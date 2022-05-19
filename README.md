@@ -1,4 +1,4 @@
-# Astrology-
+# Astrology
 My purpose of this study was because I wanted to prove three hypotheses that I had: that Virgo's are, on average, the most studious sign, that students who are enrolled in McCombs and the STEM colleges are the least believing in astrology, and that students enrolled in COLA were more believing.
 
 License type - MIT
